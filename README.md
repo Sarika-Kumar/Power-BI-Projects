@@ -22,6 +22,7 @@ An interactive Power BI dashboard analyzing store performance across customers, 
 - Office Supplies outperform Furniture & Technology in order volume  
 
 <img width="649" height="365" alt="image" src="https://github.com/user-attachments/assets/f01176bd-e4d8-462b-8065-a52c36a6bc1c" />
+
 ## 📱 Social Media Analysis Dashboard
 
 ### Overview
